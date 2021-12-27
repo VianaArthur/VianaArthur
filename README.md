@@ -1,5 +1,7 @@
 # Hello there, I'm Arthur Viana 👋🏾
 
+#### <p>👨🏽‍💻 <em>Personal Website <a href="https://www.arthurviana.com">Arthur Viana</a></p>
+
 #### <p>💻 <em>Full Stack Developer at <a href="https://actiosoftware.com">Actio Software</a></p>
 
 #### <p>🎬 <em>Instructor at <a href="https://www.wazana.dev">wazana.dev</a></p>
