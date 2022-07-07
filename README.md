@@ -2,7 +2,7 @@
 
 #### <p>👨🏽‍💻 <em>Personal Website <a href="https://www.arthurviana.com">Arthur Viana</a></p>
 
-#### <p>💻 <em>Full Stack Developer at <a href="https://actiosoftware.com">Actio Software</a></p>
+#### <p>💻 <em>Senior Development Analyst at <a href="https://www.stoneage.com.br/">Stone Age</a></p>
  
 [![Linkedin: arthur-viana](https://img.shields.io/badge/-Arthur%20Viana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-viana/)](https://www.linkedin.com/in/arthur-viana/)
 [![GitHub Arthur](https://img.shields.io/github/followers/VianaArthur?label=follow&style=social)](https://github.com/VianaArthur)
