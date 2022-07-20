@@ -36,6 +36,7 @@ me = ArthurViana()
 ![](https://img.shields.io/badge/Front--end-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Front--end-styled--components-informational?style=flat&logo=styled-components&logoColor=white&color=107896)
 
+ ![](https://img.shields.io/badge/Back--end-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Back--end-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Back--end-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Back--end-Python-informational?style=flat&logo=python&logoColor=white&color=107896)
