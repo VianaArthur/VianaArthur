@@ -1,4 +1,4 @@
-# Hello there, I'm Arthur Viana 👋🏾
+# Hey, I'm Arthur Viana 👋🏾
 
 #### <p>👨🏽‍💻 <em>Personal Website <a href="https://www.arthurviana.com">Arthur Viana</a></p>
 
@@ -42,9 +42,11 @@ me = ArthurViana()
 ![](https://img.shields.io/badge/Back--end-Python-informational?style=flat&logo=python&logoColor=white&color=107896)
 
 ![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=107896)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Database-Oracle%20SQL-informational?style=flat&logo=oracle&logoColor=white&color=107896)
   
 ![](https://img.shields.io/badge/Git-Command%20Line-informational?style=flat&logo=git&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Git-GitHub-informational?style=flat&logo=github&logoColor=white&color=107896)
+![](https://img.shields.io/badge/Git-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Git-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Git-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=107896)
