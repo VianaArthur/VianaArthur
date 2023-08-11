@@ -14,7 +14,7 @@
 class ArthurViana:
   def __init__(self):
       self.name = "Arthur Viana"
-      self.role = "Full Stack Developer"
+      self.role = "Tech Lead"
       self.hobbies = "Musical Instruments & Video Games"
       self.location = "Brazil"
 
