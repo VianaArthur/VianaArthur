@@ -2,7 +2,7 @@
 
 #### <p>💻 Personal Website -> <a href="https://www.arthurviana.com">Arthur Viana</a></p>
 
-#### <p>👨🏽‍💻 Senior Development Analyst at <a href="https://www.stoneage.com.br/">Stone Age</a></p>
+#### <p>👨🏽‍💻 Tech Lead at <a href="https://actiosoftware.com/">Actio</a></p>
  
 [![Linkedin: arthur-viana](https://img.shields.io/badge/-Arthur%20Viana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-viana/)](https://www.linkedin.com/in/arthur-viana/)
 [![GitHub Arthur](https://img.shields.io/github/followers/VianaArthur?label=follow&style=social)](https://github.com/VianaArthur)
@@ -24,7 +24,8 @@ me = ArthurViana()
  ## ⚙️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=107896)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=107896)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=107896)
+![](https://img.shields.io/badge/Editor-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=107896)
 
 ![](https://img.shields.io/badge/Front--end-React-informational?style=flat&logo=react&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Front--end-Next.js-informational?style=flat&logo=next-dot-js&logoColor=white&color=107896)
@@ -36,12 +37,13 @@ me = ArthurViana()
 ![](https://img.shields.io/badge/Front--end-Tailwind%20CSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Front--end-styled--components-informational?style=flat&logo=styled-components&logoColor=white&color=107896)
 
- ![](https://img.shields.io/badge/Back--end-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=107896)
+![](https://img.shields.io/badge/Back--end-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Back--end-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Back--end-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Back--end-Python-informational?style=flat&logo=python&logoColor=white&color=107896)
 
 ![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=107896)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=107896)
 ![](https://img.shields.io/badge/Database-Oracle%20SQL-informational?style=flat&logo=oracle&logoColor=white&color=107896)
   
