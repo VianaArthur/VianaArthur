@@ -1,8 +1,8 @@
-# Hey, I'm Arthur Viana 👋🏾
+# Hello, I'm Arthur Viana
 
-#### <p>💻 Personal Website -> <a href="https://www.arthurviana.com">Arthur Viana</a></p>
+#### <p>Website -> <a href="https://www.arthurviana.com">Arthur Viana</a></p>
 
-#### <p>👨🏽‍💻 Tech Lead at <a href="https://actiosoftware.com/">Actio</a></p>
+#### <p>Tech Lead at <a href="https://actiosoftware.com/">Actio</a></p>
  
 [![Linkedin: arthur-viana](https://img.shields.io/badge/-Arthur%20Viana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-viana/)](https://www.linkedin.com/in/arthur-viana/)
 [![GitHub Arthur](https://img.shields.io/github/followers/VianaArthur?label=follow&style=social)](https://github.com/VianaArthur)
